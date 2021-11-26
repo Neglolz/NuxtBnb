@@ -1,0 +1,18 @@
+<template>
+  <div>
+    <header style="background-color:red">
+      <nuxt-link to="/">Home</nuxt-link>
+    </header>
+    <nuxt/>
+  </div>
+</template>
+
+<script>
+export default {
+  name: "red"
+}
+</script>
+
+<style scoped>
+
+</style>
